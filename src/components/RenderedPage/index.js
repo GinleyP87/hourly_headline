@@ -9,10 +9,6 @@ function RenderedPage () {
         switch (thisPage) {
             case 'NewsToday':
                 return <NewsToday />;
-            case 'About':
-                return <About />;
-            // case 'NewsPast':
-            //     return <NewsPast />
             case 'Admin':
                 return <Admin />;
             default:

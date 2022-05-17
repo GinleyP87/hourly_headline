@@ -1,0 +1,18 @@
+.adCol {
+    text-align: center;
+};
+
+.newsCol h2 {
+    text-align: center;
+    color: greenyellow
+};
+
+.newsContainer p {
+    color: aquamarine;
+    text-align: right;
+};
+
+.hourCard{
+    display:flex;
+    flex-wrap: wrap;
+}

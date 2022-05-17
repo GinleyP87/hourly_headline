@@ -1,0 +1,33 @@
+.adminTitle {
+    margin-left: 15vh;
+}
+
+.formContainer{
+    margin-left: 15vh;
+}
+
+.hourDrop{
+    background:white;
+    color:black;
+    border: black solid;
+}
+
+.linkInput{
+    background-color: white;
+    color: black;
+    width:50vh;    
+}
+
+.descriptionInput{
+    background-color: white;
+    color: black;
+    width: 50vh;
+    height:30vh;
+}
+
+.submitArticle{
+    background: red;
+    color: black;
+    font-size: 14px;
+    font-weight:bold;
+}
